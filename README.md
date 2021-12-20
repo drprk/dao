@@ -8,4 +8,10 @@ The Social DAO thesis:
 
 The value of the DAO is directly proportional to the number of lives in touches.
 
+**Early scope of DAOs**
+
 https://docs.google.com/document/d/1MIorNsU6jbjWRdQhG588Kq7NdNgVN1Pp_vgxzHNMGGc/edit
+
+**Social DAOs**
+
+https://discoverdaos.com/social-club-daos
