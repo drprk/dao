@@ -7,3 +7,5 @@ While the early stages of successful models have been reflected in Decentralized
 The Social DAO thesis:
 
 The value of the DAO is directly proportional to the number of lives in touches.
+
+https://docs.google.com/document/d/1MIorNsU6jbjWRdQhG588Kq7NdNgVN1Pp_vgxzHNMGGc/edit
