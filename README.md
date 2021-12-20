@@ -1,4 +1,4 @@
-# dao
+# The DAO Explorer
 
 How do you scale DAOs?
 
